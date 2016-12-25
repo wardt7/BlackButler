@@ -1,0 +1,7 @@
+﻿Refer to https://en.wikipedia.org/wiki/Prosigns_for_Morse_code .Not for use directly in the program.
+AA = .-.- = New Line (space down one line)
+AR = .-.-. = New Page
+BT = -...- = New Paragraph (space down two lines)
+DO = -..--- = Change to Wabun (japanese) code
+SK = ...-.- = End of contact
+SN = ...-. = Change to morse code (from wabun)

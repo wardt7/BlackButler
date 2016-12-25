@@ -1,0 +1,11 @@
+﻿The BlackButler program is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. 
+To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
+
+The diceware word list, obtained from http://s3.amazonaws.com/dotclue.org/diceware_jp.txt , 
+has included material from the JMdict (EDICT, etc.)
+dictionary files in accordance with the licence provisions of the
+Electronic Dictionaries Research Group, and is covered under their
+Creative Commons Attribution-ShareAlike Licence.No additional modifications were
+made to the file apart from moving the licence declaration to this file.
+
+http://www.edrdg.org/edrdg/licence.html
